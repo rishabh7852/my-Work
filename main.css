@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#Header{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #ff9102;
+    padding: 2px 5px;
+    font-size: 12px;
+
+}
+#logo{
+   color: #ff9102;
+   font-size: 25px;
+
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
